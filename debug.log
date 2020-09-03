@@ -2,3 +2,4 @@
 [0902/164340.200:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: Η διοχέτευση έχει τερματιστεί. (0x6D)
 [0903/124629.102:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: Η διοχέτευση έχει τερματιστεί. (0x6D)
 [0903/125300.342:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: Η διοχέτευση έχει τερματιστεί. (0x6D)
+[0903/165448.893:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: Η διοχέτευση έχει τερματιστεί. (0x6D)
